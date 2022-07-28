@@ -16,3 +16,9 @@ font-family: 'Poppins', sans-serif;
 font-family: 'Roboto', sans-serif;
 font-family: 'Roboto Condensed', sans-serif;
 }
+.social-accounts > a > img{
+    height: 20px;
+    width: 20px;
+    color: white;
+    
+}
