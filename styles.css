@@ -1,0 +1,18 @@
+.center-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.slider-height {
+    height: 600px;
+}
+.body {
+    font-family: 'Finlandica', sans-serif;
+font-family: 'Gulzar', serif;
+font-family: 'Ibarra Real Nova', serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
